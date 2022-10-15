@@ -38,17 +38,22 @@ See [Publications](#Publications).
 
 ## Frameworks and tools
 
-- Data processing and visualisation: numpy, pandas, pyspark, Databricks, seaborn, vega-lite
+Data processing and visualisation: numpy, pandas, pyspark, Databricks, seaborn, vega-lite
 
-- ML tools/libraries: scikit-learn, xgboost, catboost, pytorch, [fastai](https://github.com/fastai/fastai), [Optuna](https://github.com/optuna/optuna), [darts](https://github.com/unit8co/darts), [pytorch geometric](https://github.com/pyg-team/pytorch_geometric), [yolov5](https://github.com/ultralytics/yolov5), basic experience with [huggingface transformers](https://github.com/huggingface/transformers)
 
-- MLOps/CICD tools: [DVC](https://github.com/iterative/dvc), [CML](https://github.com/iterative/cml), [MLEM](https://github.com/iterative/cml), [MLFlow](https://github.com/mlflow/mlflow), Docker (compose), some experience with [BentoML](https://github.com/bentoml/BentoML)
+ML tools/libraries: scikit-learn, xgboost, catboost, pytorch, [fastai](https://github.com/fastai/fastai), [Optuna](https://github.com/optuna/optuna), [darts](https://github.com/unit8co/darts), [pytorch geometric](https://github.com/pyg-team/pytorch_geometric), [yolov5](https://github.com/ultralytics/yolov5), basic experience with [huggingface transformers](https://github.com/huggingface/transformers)
 
-- Cloud: Terraform, AWS, Azure (mostly working with S3/storage accounts, EC2s/VMs, AWS Lambda/Azure Functions, container registries)
 
-- SQL: postgreSQL, psycopg2
+MLOps/CICD tools: [DVC](https://github.com/iterative/dvc), [CML](https://github.com/iterative/cml), [MLEM](https://github.com/iterative/cml), [MLFlow](https://github.com/mlflow/mlflow), Docker (compose), some experience with [BentoML](https://github.com/bentoml/BentoML)
 
-- Others: git, bash/zsh, pytest, [GitTagOps](https://github.com/iterative/gto)
+
+Cloud: Terraform, AWS, Azure (mostly working with S3/storage accounts, EC2s/VMs, AWS Lambda/Azure Functions, container registries)
+
+
+SQL: postgreSQL, psycopg2
+
+
+Others: git, bash/zsh, pytest, [GitTagOps](https://github.com/iterative/gto)
 
 ## Open source projects involvement
 
@@ -96,8 +101,12 @@ General Mathematics
 
 ## Language skills
 
-- Czech:  Native or bilingual proficiency
-- English: Full professional proficiency 
-- German:  Professional working proficiency
-- Spanish: Limited working proficiency
-- Portuguese: Limited working proficiency
+Czech:  Native or bilingual proficiency
+
+English: Full professional proficiency 
+
+German:  Professional working proficiency
+
+Spanish: Limited working proficiency
+
+Portuguese: Basics

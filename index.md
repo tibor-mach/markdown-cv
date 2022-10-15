@@ -4,7 +4,6 @@ title: Tibor Mach's CV
 ---
 # Tibor Mach
 Data Scientist, Machine learning engineer, mathematician by training
-
 <div id="links">
 <a href="tibor.mach@pm.me">e-mail address</a>
 | <a href="https://cz.linkedin.com/in/tibor-mach">LinkedIn</a>
@@ -16,6 +15,7 @@ Data Scientist, Machine learning engineer, mathematician by training
 
 - Head of Data Science and Risk at Flowpay s.r.o.
 - Data Science Architect in DataSentics, a.s.
+
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)

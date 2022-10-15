@@ -8,19 +8,6 @@ Machine Learning, Data Science and a little bit of MLOps. Mathematician by train
 
 
 <div id="webaddress">
-<SCRIPT TYPE="text/javascript">
-<!-- 
-
-emailE=('tibor.mach@' + 'pm.me')
-document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
-
-</script>
-
-<NOSCRIPT>
-    <em>Email address protected by JavaScript.<BR>
-    Please enable JavaScript to contact me.</em>
-</NOSCRIPT>
-
 | <a href="https://www.linkedin.com/in/tibor-mach/">LinkedIn</a>
 | <a href="http://github.com/tibor-mach">GitHub</a>
 </div>
@@ -29,37 +16,53 @@ document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
 ## Work positions
 
 `Jan 2022 - present`
-__Head of Data Science and risk, [Flowpay](https://www.flowpay.io/en),__
+__Head of Data Science and risk, [Flowpay](https://www.flowpay.io/en)__
 
 Leading the development of a ML-based models for Flowpay to enhance their financing products: risk models, customer targeting, automated business insights and recommendations for customers of Flowpay.
 
 Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
 
 `September 2019 - present`
-__Senior Data Scientist/Data Science architect__, [DataSentics](https://datasentics.com/)
+__Senior Data Scientist/Data Science architect, [DataSentics](https://datasentics.com/)__ 
 
 Notable projects:
 
-1) AML/Fraud Confidential data pooling tech sprint (ACPR, Banque de France)
+- *AML/Fraud Confidential data pooling tech sprint (ACPR, Banque de France)*
+ 
+    A PoC project organized by the [ACPR](https://acpr.banque-france.fr/en) in cooperation with several commercial banking institutions. Aimed at creating innovative AML solution with the focus on securely and confidentially pooling data from multiple sources.
 
-1) ANNA - improving the tax estimator/automated accounting service
+    In cooperation with [Eurodat](https://www.eurodat.org/en/), [Privitar](https://www.privitar.com/) and [TigerGraph](https://www.tigergraph.com/)
 
-1) Personal Shelf Inspector - AI for good app for visually impaired people
 
-1) Moneta Money Bank - transaction purpose classification
+- *Improving the tax estimator/automated accounting service for [ANNA](https://anna.money/)*
 
-1) Moneta Money Bank - Onboarding Fraud detectionMoneta Money Bank - Onboarding Fraud detection
+    Using a combination of NLP and structured data modelling to improve precision of the client's tax estimator service.
 
-1) Viderize - diabetic retinopathy Detection PoCViderize - diabetic retinopathy Detection PoC 
+- *An AI for good app to help visually impaired people (Personal Shelf Inspector)*
+    
+     Leading the development of a computer vision mobile app which makes shopping easier for visually impaired people by identifying items in display racks based on the listed price tags.
 
+    The development was kickstarted by the AI for Accessibility Hackathon by Microsoft in which a PoC of the app ended up as one of the two first prize winners.
+
+- *transaction purpose classification for [Moneta Money Bank](https://www.moneta.cz/web/en)*
+
+    Working with the internal bank team on developing a classification engine for estimating the purpose of transactions of the bank's clients.
+
+- *Onboarding Fraud detection for [Moneta Money Bank](https://www.moneta.cz/web/en)*
+
+    Building an ML classifier of fraudsters (attempts of identity theft) based on OCR and "selfie" data for a customer onboarding app of Moneta to reduce the amount of manual classification.
+
+- *Viderize - diabetic retinopathy Detection PoC*
+
+    A PoC project aimed at detecting diabetic retinopathy from human retina images for possible commercial application.
 
 `Jan 2019 - August 2019`
-__Credit risk analyst__, Erste Group Credit Risk Models
+__Credit risk analyst, Erste Group Credit Risk Models__
 
-- Designing credit risk scoring models for banks associated with the Erste Group
+- Designing ML-based credit risk scoring models for banks associated with the Erste Group
 
 `2017 - 2018`
-__Postdoctoral Research Scientist__, Academy of Sciences of the Czech Republic, Institute of Information Theory and Automation
+__Postdoctoral Research Scientist, Academy of Sciences of the Czech Republic, [Institute of Information Theory and Automation](https://www.utia.cas.cz/)__
 
 - (see [Publications](#Publications))
 

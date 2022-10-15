@@ -8,7 +8,7 @@ Machine Learning, Data Science and a little bit of MLOps. Mathematician by train
 
 
 <div id="webaddress">
-| <a href="https://www.linkedin.com/in/tibor-mach/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/tibor-mach/">LinkedIn</a>
 | <a href="http://github.com/tibor-mach">GitHub</a>
 </div>
 

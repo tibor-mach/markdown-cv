@@ -1,20 +1,21 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tibor Mach's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tibor Mach
+Data Scientist, Machine learning engineer, mathematician by training
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="links">
+<a href="tibor.mach@pm.me">e-mail address</a>
+| <a href="https://cz.linkedin.com/in/tibor-mach">LinkedIn</a>
+| <a href="https://github.com/tibor-mach">GitHub profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
+- Head of Data Science and Risk at Flowpay s.r.o.
+- Data Science Architect in DataSentics, a.s.
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
@@ -27,27 +28,29 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Georg-August-Universität Göttingen__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ph.D., Mathematics, Probability Theory
 
-- Sizar
+`2011-2013`
+__Charles University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree (Summa Cum Laude), Mathematics, Probability Theory
 
-- Fellow
+`2009 - 2011`
+__Charles University__
+
+- Bachelor's degree, General Mathematics
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2013`
+ Best dimploma thesis - Robust Filtering
+Issued by Department of Probability and Mathematical Statistics, Faculty of Mathematics and Physics
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -65,12 +68,6 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `1600`
@@ -86,6 +83,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2022 -->
 
 

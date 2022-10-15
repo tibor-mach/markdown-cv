@@ -54,7 +54,7 @@ Notable projects:
 
 - *Viderize - diabetic retinopathy Detection PoC*
 
-    A PoC project aimed at detecting diabetic retinopathy from human retina images for possible commercial application.
+    A proof of concept for automated detection of defects associated with diabetic retinopathy from images of the retina.
 
 `Jan 2019 - August 2019`
 __Credit risk analyst, Erste Group Credit Risk Models__

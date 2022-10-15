@@ -8,26 +8,19 @@ Machine Learning, Data Science and a little bit of MLOps. Mathematician by train
 
 
 <div id="webaddress">
-<script type="text/javascript">
-//<![CDATA[
-<!--
-var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
-"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
-" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!08{)rt{y+xx=l;=+;" +
-"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
-"\"(4),9\\\"\\\\}ubwwhh)0z& 5lR)20\\\\0P\\\\WIy[GYEW_]7W01\\\\\\\\22\\\\0s\\" +
-"\\DBFMtO\\\\\\\\SG06\\\\0N\\\\JGBN02\\\\0C\\\\x#opms58`Jvpe<by` gyIkwiugom;" +
-"gno\\\\\\\\21\\\\05\\\\02\\\\\\\\32\\\\07\\\\02\\\\\\\\$[0J02\\\\\\\\20\\\\" +
-"06\\\\00\\\\\\\\33\\\\0R\\\\20\\\\0L\\\\FM03\\\\00\\\\00\\\\\\\\16\\\\06\\\\"+
-"03\\\\\\\\00\\\\02\\\\03\\\\\\\\20\\\\0H\\\\21\\\\0n\\\\\\\\\\\\06\\\\07\\\\"+
-"01\\\\\\\\24\\\\03\\\\00\\\\\\\\:0\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
-"hx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)4+(9i>f({i+)i+l;i<0;i=r(foh;gten.l" +
-"=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"                        ;
-while(x=eval(x));
-//-->
-//]]> </script>
+<SCRIPT TYPE="text/javascript">
+<!-- 
 
-| <a href="http://tibor-mach.github.io">tibor-mach.github.io</a>
+emailE=('tibor.mach@' + 'pm.me')
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+
+</script>
+
+<NOSCRIPT>
+    <em>Email address protected by JavaScript.<BR>
+    Please enable JavaScript to contact me.</em>
+</NOSCRIPT>
+
 | <a href="https://www.linkedin.com/in/tibor-mach/">LinkedIn</a>
 | <a href="http://github.com/tibor-mach">GitHub</a>
 </div>
@@ -38,9 +31,9 @@ while(x=eval(x));
 `Jan 2022 - present`
 __Head of Data Science and risk, [Flowpay](https://www.flowpay.io/en),__
 
-- Leading the development of a ML-based models for Flowpay to enhance their financing products - risk models, customer targeting, automated business insights and recommendations for customers of Flowpay.
+Leading the development of a ML-based models for Flowpay to enhance their financing products: risk models, customer targeting, automated business insights and recommendations for customers of Flowpay.
 
-- Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
+Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
 
 `September 2019 - present`
 __Senior Data Scientist/Data Science architect__, [DataSentics](https://datasentics.com/)
@@ -70,17 +63,23 @@ __Postdoctoral Research Scientist__, Academy of Sciences of the Czech Republic, 
 
 - (see [Publications](#Publications))
 
-### Frameworks and tools
+## Frameworks and tools
 Data processing and visualisation - numpy, pandas, pyspark, Databricks, seaborn, vega-lite
+
 ML tools/libraries - scikit-learn, pytorch, fastai, [darts](https://github.com/unit8co/darts), [pytorch geometric](https://github.com/pyg-team/pytorch_geometric), [yolov5](https://github.com/ultralytics/yolov5), basic experience with [huggingface transformers](https://github.com/huggingface/transformers)
+
 MLOps/CICD tools - [DVC](https://github.com/iterative/dvc), [CML](https://github.com/iterative/cml), [MLEM](https://github.com/iterative/cml), [MLFlow](https://github.com/mlflow/mlflow), Docker (compose), some experience with [BentoML](https://github.com/bentoml/BentoML)
+
 Cloud - Terraform, AWS, Azure (mostly working with S3/storage accounts, EC2s/VMs, AWS Lambda/Azure Functions, container registries)
+
 SQL - postgreSQL, psycopg2
+
 Others - git, bash/zsh, [GitTagOps](https://github.com/iterative/gto)
 
-### Open source projects involvement
+## Open source projects involvement
 
 Personal ML templating/declarative machine learning project (still ahead of a first release) [Semal](https://github.com/tibor-mach/semal)
+
 Minor contribution to [dvc-render](https://github.com/iterative/dvc-render)
 
 ## Publications
@@ -121,6 +120,7 @@ __Bachelor's degree, Charles University, Faculty of Mathematics and Physics__
 General Mathematics
 
 - Thesis: [Success runs in series of Bernoulli trials (text in Czech)](https://dspace.cuni.cz/handle/20.500.11956/38662)
+
 ## Language skills
 
 - Czech:  Native or bilingual proficiency

@@ -4,14 +4,10 @@ title: Tibor Mach - Resume
 ---
 # Tibor Mach
 
-Machine Learning, Data Science and a little bit of MLOps. Mathematician by training.
-
-
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/tibor-mach/">LinkedIn</a>
 | <a href="http://github.com/tibor-mach">GitHub</a>
 </div>
-
 
 ## Work positions
 
@@ -27,11 +23,11 @@ __Senior Data Scientist/Data Science architect, [DataSentics](https://datasentic
 
 Notable projects:
 
-- *AML/Fraud Confidential data pooling tech sprint (ACPR, Banque de France)*
+*AML/Fraud Confidential data pooling tech sprint (ACPR, Banque de France)*
  
-    A PoC project organized by the [ACPR](https://acpr.banque-france.fr/en) in cooperation with several commercial banking institutions. Aimed at creating innovative AML solution with the focus on securely and confidentially pooling data from multiple sources.
+A PoC project organized by the [ACPR](https://acpr.banque-france.fr/en) in cooperation with several commercial banking institutions. Aimed at creating innovative AML solution with the focus on securely and confidentially pooling data from multiple sources.
 
-    In cooperation with [Eurodat](https://www.eurodat.org/en/), [Privitar](https://www.privitar.com/) and [TigerGraph](https://www.tigergraph.com/)
+In cooperation with [Eurodat](https://www.eurodat.org/en/), [Privitar](https://www.privitar.com/) and [TigerGraph](https://www.tigergraph.com/)
 
 
 - *Improving the tax estimator/automated accounting service for [ANNA](https://anna.money/)*
@@ -108,8 +104,7 @@ Electronic Journal of Probability 25 (2020): 1-63.
 __Ph.D, Georg-August Universität Göttingen__
 Probability Theory
 
-- Thesis: [Dualities and genealogies in stochastic
-population models](https://core.ac.uk/download/pdf/151618289.pdf)
+- Thesis: [Dualities and genealogies in stochastic population models](https://core.ac.uk/download/pdf/151618289.pdf)
 
 `2011-2013`
 __Master's degree (Summa cum laude), Charles University, Faculty of Mathematics and Physics__

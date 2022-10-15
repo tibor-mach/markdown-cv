@@ -18,6 +18,7 @@ Leading the development of a ML-based models for Flowpay to enhance their financ
 
 Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
 
+
 `September 2019 - present`
 __Senior Data Scientist/Data Science architect, [DataSentics](https://datasentics.com/)__ 
 
@@ -30,6 +31,7 @@ See [LinkedIn](https://www.linkedin.com/in/tibor-mach/) for a list of notable pr
 __Credit risk analyst, Erste Group Credit Risk Models__
 
 Designing ML-based credit risk scoring models for banks associated with the Erste Group.
+
 
 `2017 - 2018`
 __Postdoctoral Research Scientist, Academy of Sciences of the Czech Republic, [Institute of Information Theory and Automation](https://www.utia.cas.cz/)__

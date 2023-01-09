@@ -11,20 +11,19 @@ title: Tibor Mach - Resume
 
 ## Work positions
 
-`Jan 2022 - present`
-__Head of Data Science and risk, [Flowpay](https://www.flowpay.io/en)__
-
-Leading the development of a ML-based models for Flowpay to enhance their financing products: risk models, customer targeting, automated business insights and recommendations for customers of Flowpay.
-
-Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
-
-
 `September 2019 - present`
 __Senior Data Scientist/Data Science architect, [DataSentics](https://datasentics.com/)__ 
 
 A position in a (mainly) consulting company, combining hands-on design and development of machine learning solutions, leading smaller teams of data scientists and data engineers as well as pre-sales activities and managing expectations with business customers.
 
 See [LinkedIn](https://www.linkedin.com/in/tibor-mach/) for a list of notable projects associated with this position.
+
+`Jan 2022 - Dec 2022`
+__Head of Data Science and risk, [Flowpay](https://www.flowpay.io/en)__
+
+Leading the development of a ML-based models for Flowpay to enhance their financing products: risk models, customer targeting, automated business insights and recommendations for customers of Flowpay.
+
+Leading a data engineering and data science team responsible for providing data solutions for Flowpay end to end (infrastructure, data engineering, data science as well as associated CICD and DevOps practices).
 
 
 `Jan 2019 - August 2019`

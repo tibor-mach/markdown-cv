@@ -11,8 +11,11 @@ title: Tibor Mach - Resume
 
 ## Work positions
 
-`September 2019 - present`
-__Senior Data Scientist/Data Science architect, [DataSentics](https://datasentics.com/)__ 
+`August 2023 - present`
+__Machine Learning Solutions Engineer, [Iterative](https://www.iterative.ai)__
+
+`September 2019 - July 2023`
+__Senior Data Scientist/Data Science Architect, [DataSentics](https://datasentics.com/)__ 
 
 A position in a (mainly) consulting company, combining hands-on design and development of machine learning solutions, leading smaller teams of data scientists and data engineers as well as pre-sales activities and managing expectations with business customers.
 
